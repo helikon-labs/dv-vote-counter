@@ -1,6 +1,6 @@
 ## DV Vote Counter
 
-Counts the votes for the W3F DV delegates for a given range of referendum ids.
+Counts the votes for the first cohort of W3F DV delegates for a given range of referendum ids.
 
 Tested on node 21.7.3 and npm v10.5.2.
 
