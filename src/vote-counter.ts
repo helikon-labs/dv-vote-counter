@@ -44,7 +44,7 @@ const voters = [
 const tracks = [30, 31, 32, 33, 34];
 
 const START_REF_ID = 448;
-const END_REF_ID = 699;
+const END_REF_ID = 744;
 
 export async function countDVVotes() {
     logHR();
